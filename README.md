@@ -1,1 +1,1 @@
-# aulas-da-BLUE-logica-da-programa-o-
+# aulas-da-BLUE-logica-da-programacao
